@@ -1,2 +1,4 @@
-# pythonTraining
-Python self-learning training
+# pythonProject
+
+
+This is a test project to learn Python
